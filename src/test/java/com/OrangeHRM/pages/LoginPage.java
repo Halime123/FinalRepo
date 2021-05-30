@@ -33,6 +33,8 @@ public class LoginPage extends CommonMethods {
         sendText(passwordBox,password);
 
     }
+    //this is a command line
+
     public void clickOnLoginButton(){
         click(loginBtn);
     }
